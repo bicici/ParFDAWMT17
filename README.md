@@ -1,7 +1,7 @@
-# ParFDAWMT17
-ParFDA WMT17 SMT Datasets
+# parfdaWMT17
+parfda WMT17 SMT Datasets
 
-We make the English, Czech, Finnish, German, Latvian, Russian, Turkish, and Chinese datasets available used when building ParFDA Moses SMT models:
+We make the English, Czech, Finnish, German, Latvian, Russian, Turkish, and Chinese datasets available used when building parfda Moses SMT models:
 
 https://drive.google.com/drive/folders/0B2k8ISN7gmi1SnA1d1gxcTQ5TTg?usp=sharing
 
